@@ -10,7 +10,7 @@
 
 	<body>
 
-		<p>I completed the <strong>prework</strong></p>
+		<p>I completed the prework</p>
 
 
 	</body>
